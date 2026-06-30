@@ -1,0 +1,6 @@
+{
+  "name": "Apology Website",
+  "description": "An interactive, heartfelt apology and love letter website for your lover, featuring a sweet apology card, crying illustration, and romantic love expressions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
